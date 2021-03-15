@@ -7,3 +7,4 @@ pip install --target=$PWD/lib --upgrade boto3 \
     google-cloud-storage \    
     azure-storage-blob
     
+All own implementation is in cloud.py
